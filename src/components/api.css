@@ -1,0 +1,7 @@
+.crypto {
+     list-style-type: none;
+     padding: 0;
+     display: inline-flex;
+     justify-content: space-evenly;
+     flex-wrap: wrap;
+ }
