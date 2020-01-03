@@ -14,7 +14,7 @@ const IndexPage = () => (
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
-    <Link to="/page-2/" style={{background:'#663399', textDecoration:'none', color:'#fff', padding: '10px', marginBottom:'40px', textTransform:'uppercase',fontSize:'17px', letterSpacing:'2px'}}>Check Api result</Link>
+    <Link to="/page-2/" style={{background:'#FFCC00', textDecoration:'none', color:'#fff', padding: '10px', marginBottom:'40px', textTransform:'uppercase',fontSize:'17px', letterSpacing:'2px'}}>Check Api result</Link>
   </Layout>
 )
 
