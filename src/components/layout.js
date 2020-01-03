@@ -38,7 +38,7 @@ const Layout = ({ children }) => {
         <footer style={{marginTop:'1rem'}}>
           © {new Date().getFullYear()}, Created by
           {` `}
-          <a href="https://www.theperfectsquad.com" target="_blank">TPS</a>
+          <a href="https://www.hellobatlabs.com" target="_blank">Bat Labs LLP</a>
         </footer>
       </div>
     </>
