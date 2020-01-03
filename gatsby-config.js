@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `The Perfect Squad`,
+    title: `Bat Labs`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
     author: `@gatsbyjs`,
   },
