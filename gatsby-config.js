@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Bat Labs`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    description: `Marketing from the outer space`,
+    author: `@batlabs`,
   },
   proxy: {
     prefix: "/api",
