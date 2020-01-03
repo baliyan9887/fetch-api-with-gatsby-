@@ -10,7 +10,7 @@ const SecondPage = () => (
     <SEO title="Fetchedd API" />
     <h1>Here!! We fetched some Crypto Currency like Bitcoin, Ethereum, Ripple, Eos and Litecoine below-</h1>
     <Crypto />
-    <Link to="/" style={{background:'#663399', textDecoration:'none', color:'#fff', padding: '10px', marginBottom:'40px', textTransform:'uppercase',fontSize:'17px', letterSpacing:'2px'}}>Go back to the homepage</Link>
+    <Link to="/" style={{background:'#FFCC00', textDecoration:'none', color:'#fff', padding: '10px', marginBottom:'40px', textTransform:'uppercase',fontSize:'17px', letterSpacing:'2px'}}>Go back to the homepage</Link>
   </Layout>
 )
 
